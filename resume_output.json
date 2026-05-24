@@ -1,0 +1,110 @@
+{
+    "contact_information": {
+        "name": "VIPUL BIJALWAN",
+        "location": "Dehradun",
+        "phone": "7906872889",
+        "email": "vipulbijalwan112@gmail.com",
+        "links": []
+    },
+    "professional_summary": "Aspiring Data Engineer with hands-on experience in PySpark, SQL, and Azure , Airflow, now expanding into Generative AI, Retrieval-Augmented Generation (RAG), and LLM-based data systems.",
+    "technical_skills": {
+        "Programming": [
+            "Python",
+            "Java",
+            "C++"
+        ],
+        "Data Engineering": [
+            "ETL Pipelines",
+            "Data Modeling",
+            "Medallion Architecture"
+        ],
+        "Big Data": [
+            "PySpark",
+            "Data Warehousing",
+            "Distributed Processing"
+        ],
+        "Databases & Storage": [
+            "SQL",
+            "PostgreSQL"
+        ],
+        "Cloud": [
+            "Azure (ADF",
+            "ADLS Gen2",
+            "Databricks",
+            "Key Vault)"
+        ],
+        "Databases": [
+            "PostgreSQL",
+            "SQL",
+            "Parquet"
+        ],
+        "GenAI & LLMs": [
+            "LangChain",
+            "RAG Pipelines",
+            "Prompt Engineering"
+        ],
+        "Tools": [
+            "Git",
+            "GitHub",
+            "Power BI",
+            "Airflow"
+        ]
+    },
+    "projects": [
+        {
+            "title": "Stock Data Pipeline using Airflow",
+            "tech_stack": [
+                "Python",
+                "Pandas",
+                "Airflow"
+            ],
+            "description": [
+                "Developed an end-to-end data pipeline to ingest stock market data from APIs.",
+                "Processed and transformed data using Python for reliable and structured storage.",
+                "Analyzed stock trends to derive meaningful insights for decision            -making.",
+                "Orchestrated the pipeline using Apache Airflow for automated and scalable execution."
+            ]
+        },
+        {
+            "title": "End-to-End Azure Data Pipeline with RAG Integration",
+            "tech_stack": [
+                "ADF",
+                "ADLS Gen2",
+                "Databricks",
+                "Power BI",
+                "LangChain"
+            ],
+            "description": [
+                "Built an ETL pipeline to ingest on      -prem data into ADLS using Azure Data Factory.",
+                "Performed data transformations using PySpark with Bronze, Silver, and                 Gold architecture.",
+                "Designed structured datasets to support efficient querying and analytics.",
+                "Implemented a RAG-based solution using LangChain to enable natural language querying on processed data."
+            ]
+        },
+        {
+            "title": "Aadhaar Data Analysis \u2013 UIDAI Data Hackathon",
+            "tech_stack": [
+                "Python",
+                "Databricks",
+                "SQL",
+                "Power BI"
+            ],
+            "description": [
+                "Processed and cleaned 50+ lakh records using PySpark and SQL.",
+                "Handled missing values, duplicates, and inconsistent region mappings.",
+                "Built dashboards for demographic and anomaly analy              sis.",
+                "Delivered insights for large-scale government dataset optimization."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Electronics & Communication Engineering",
+            "institution_details": "Government Polytechnic Dehradun (Aug 2019              \u2013 Jun 2022)"
+        }
+    ],
+    "achievements": [
+        "Solved 200+ LeetCode problems focused on Data Structures & Algorithms.",
+        "Strong interest in ETL automation, cloud-native data architecture, and large                   -scale distributed processing."
+    ]
+}
